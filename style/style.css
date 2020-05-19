@@ -1,0 +1,97 @@
+body {
+  height: 1440px;
+  width: 900px;
+  min-height: 1100px;
+  min-width: 600px;
+  display: flex;
+}
+.left {
+  border: none;
+  background: #000000;
+  border-radius: 24px;
+  margin-left: 20px;
+  padding: 30px;
+  margin-top: 10px;
+  display: block;
+}
+.left h1 {
+  font-family: "Baloo Bhai 2";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 102px;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+.left li {
+  margin-bottom: 60px;
+  margin-left: 8px;
+}
+.left .fut {
+  margin-top: 230px;
+}
+.left a {
+  color: #ffffff;
+  text-decoration: none;
+}
+.centr {
+  margin-left: 71px;
+  margin-top: 20px;
+  border: 1px solid black;
+}
+.centr .top {
+  border: 1px solid black;
+  padding: 80px 300px 40px 0px;
+  background-image: url(../icons/Illustration1.png);
+  background-repeat: no-repeat;
+  background-position-x: 300px;
+}
+.top h2 {
+  font-family: "Baloo Bhai 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 57px;
+  color: #000000;
+}
+.top p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+.botom {
+  display: flex;
+  border: 1px solid black;
+}
+.bot2 {
+  border: 1px solid black;
+}
+.bot3 {
+  border: 1px solid black;
+}
+.bot3 li {
+  display: initial;
+}
+.bot4 {
+  border: 1px solid black;
+  display: flex;
+}
+.bot5 {
+  border: 1px solid black;
+  display: flex;
+}
+.bot6 {
+  border: 1px solid black;
+  display: flex;
+}
+.bot7 {
+  border: 1px solid black;
+  display: flex;
+}
+.bot8 {
+  border: 1px solid black;
+  display: flex;
+}
