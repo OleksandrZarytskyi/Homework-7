@@ -1,6 +1,7 @@
 body {
   width: 1440px;
   height: 900px;
+  margin: 0 auto;
 }
 .oll {
   display: flex;
@@ -456,5 +457,157 @@ body {
   color: #ffffff;
 }
 footer {
-  margin-left: 100px;
+  margin-left: 65px;
+}
+.ser {
+  margin-top: 26px;
+  display: flex;
+}
+.ser .sre {
+  margin-top: 28px;
+  padding: 11px 70px;
+  background: #f5f5f7;
+  border-radius: 8px;
+  box-sizing: border-box;
+  outline: none;
+  border: 1px solid #e9dddd;
+  background-image: url(../icons/Vector9.png);
+  background-repeat: no-repeat;
+  background-position: 14px 10px;
+}
+.ser .igm2 {
+  margin-left: 36px;
+  margin-top: 26px;
+}
+.ser .igm3 {
+  margin-left: 17px;
+  margin-top: 29px;
+}
+.prop {
+  display: flex;
+  margin-top: 25px;
+  margin-left: 34px;
+}
+
+.prop h4 {
+  font-family: "Baloo Bhai 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 64px;
+  line-height: 102px;
+  color: #000000;
+}
+.prop p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+.prop1 {
+  display: flex;
+}
+.prop1 p {
+  margin-top: 25px;
+  margin-left: 12px;
+  width: 75px;
+}
+.prop2 {
+  display: flex;
+}
+.prop2 h4 {
+  margin-left: 97px;
+}
+.prop2 p {
+  margin-top: 25px;
+  margin-left: 15px;
+}
+.nez h5 {
+  font-family: "Baloo Bhai 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 38px;
+  color: #000000;
+  margin-top: 30px;
+  margin-left: 2px;
+}
+.meny {
+  display: flex;
+}
+.meny h3 {
+  font-family: "Baloo Bhai 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #000000;
+  margin-top: 17px;
+  margin-left: 2px;
+  margin-right: 23px;
+}
+.meny1 h3 {
+  opacity: 0.3;
+}
+.meny .btn3 {
+  padding: 8px 16px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 15px;
+  color: #000000;
+  margin-top: 14.5px;
+  margin-left: 106.5px;
+  border: none;
+  background-image: url(../icons/Vector10.png);
+  background-repeat: no-repeat;
+  background-position: 64px 13px;
+  cursor: pointer;
+}
+.grf {
+  margin-top: 30px;
+}
+.end {
+  display: flex;
+}
+.end1 h5 {
+  font-family: "Baloo Bhai 2";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 38px;
+  color: #000000;
+  margin-top: 66px;
+  margin-left: 22px;
+}
+.end p {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  width: 200px;
+  margin-top: 3px;
+  margin-left: 22px;
+}
+.end2 {
+  padding: 13px 24px;
+  border-radius: 8px;
+  border: none;
+  background: #000000;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 15px;
+  color: #ffffff;
+  margin-top: 24px;
+  margin-left: 23px;
+}
+.lern {
+  margin-top: 79px;
+  margin-left: 44px;
 }
