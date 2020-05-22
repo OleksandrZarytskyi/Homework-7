@@ -2,6 +2,7 @@ body {
   width: 1440px;
   height: 900px;
   margin: 0 auto;
+  background-color: background: #E5E5E5;;
 }
 .oll {
   display: flex;
@@ -37,19 +38,22 @@ body {
 }
 .centr {
   margin-left: 64px;
-  margin-top: 23px;
 }
 .top {
   display: flex;
 }
 
 .top .leter {
-  margin-top: 75px;
-  margin-left: 39px;
+  margin-top: 54px;
+  margin-left: 6px;
+  background-color: #f5f5f7;
+  border-radius: 20px;
+  padding: 44px 405px 38px 33px;
 }
 .top .img1 {
-  margin-left: 125px;
-  padding-top: 1px;
+  margin-left: 348px;
+  margin-top: 24px;
+  position: absolute;
 }
 
 .top h2 {
@@ -71,8 +75,11 @@ body {
 
 .botom {
   display: flex;
-  margin-top: 44px;
-  margin-left: 31px;
+  margin-top: 29px;
+  margin-left: 2px;
+  padding: 15px 29px;
+  border-radius: 10px;
+  background-color: #f5f5f7;
 }
 .botom .fl1 {
   padding-top: 4px;
@@ -128,7 +135,7 @@ body {
   padding-top: 2px;
 }
 .bot2 {
-  margin-top: 54px;
+  margin-top: 39px;
   margin-left: 7px;
 }
 .bot2 h2 {
@@ -163,11 +170,13 @@ body {
 }
 .bot4 {
   display: flex;
+  background-color: #f5f5f7;
   margin-top: 30px;
   margin-left: 36px;
 }
 .bot4 .foto1 {
-  padding-top: 4px;
+  background-color: #ffffff;
+  margin-top: 4px;
 }
 .bot4 h3 {
   font-family: "Baloo Bhai 2";
@@ -463,7 +472,7 @@ body {
   outline: none;
 }
 footer {
-  margin-left: 65px;
+  margin-left: 36px;
 }
 .ser {
   margin-top: 26px;
